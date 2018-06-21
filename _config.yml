@@ -22,6 +22,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 
 url: http://mschaeffner.com
 baseurl: /
+permalink: /:title
 
 twitter_username: jekyllrb
 github_username:  jekyll
