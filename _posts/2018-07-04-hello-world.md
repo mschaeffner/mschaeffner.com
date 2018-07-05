@@ -2,7 +2,7 @@
 layout: post
 title: Hello World
 tagline: Let's get this started
-image: /assets/img1.jpg
+image: /assets/hello-world.jpg
 ---
 
 This is my first blog post. That's no big deal. What's more important, this is my own personal website. I set this up. Finally. It's actually something I wanted to do for almost 20 years. Yeah, right, 20 years! It must have been in the late 90s, when I first heard of this cool new kid (back then), HTML. And it somehow caught my attention. I can not remember why or how, but I knew that this was something I wanted to learn. So I played around a bit and I can still clearly remember my first few lines.
