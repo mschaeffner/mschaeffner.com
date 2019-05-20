@@ -31,22 +31,19 @@ theme: ceevee
 remote_theme: mschaeffner/ceevee
 plugins:
   - jekyll-feed
-
+  - jekyll-redirect-from
 
 author: "Mathias Schaeffner"
 author_title: "Fullstack Developer"
 author_picture: /assets/profile-picture.jpg
 
 header_pages:
- - index.md
- - projects.md
+ - labfolder.md
  - cv.html
 
 sidebar_sections:
-  - title: "About"
-    text: "I am a fullstack developer."
   - title: "Contact"
-    text: "Just write me an email."
+    text: "<a href='https://www.linkedin.com/in/mathias-schaeffner/' target='_blank'>LinkedIn</a>"
 
 
 # Exclude from processing.

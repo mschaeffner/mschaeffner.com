@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Hello World
-tagline: Let's get this started
+title: Hello World // Hallo Welt
+tagline: Let's get this started. The first blog post. Finally.
+description: description here
 image: /assets/hello-world.jpg
 ---
 
@@ -24,7 +25,6 @@ Sure, in my naive teenage mindset, sitting in my bedroom in a 400 people village
 But still, it was fun, and motivating, and I was passionate to learn this HTML stuff. It must be around year 2000 when I came across the website selfhtml.org. Wow, this website still exists! Back then it looked like this:
 
 ![Selfthtml](/assets/old-selfhtml.png)
-
 
 This website explained all the things you could do with HTML, CSS and Javascript. And when I say all the things, seriously, I mean all the things. So eventually, I ended up reading all the stuff there about HTML, CSS and Javascript. I guess it took me almost a year to fully understand all the details. But looking back, this time was well-spent.
 
