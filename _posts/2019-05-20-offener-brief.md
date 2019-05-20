@@ -25,4 +25,4 @@ Die Hauptaufgabe der Labfolder GmbH ist die Verwaltung von sensible wissenschaft
 
 Mit freundlichen Grüßen
 
-Mathias Schäffner
+Mathias Schaeffner
