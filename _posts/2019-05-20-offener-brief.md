@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Offener Brief an die Labfolder GmbH
-tagline: Bezüglich der 22.05.2019 Panel-Diskussion zum Thema "Datensicherheit und Cybersicherheit"
+tagline: Bezüglich der geplanten Panel-Diskussion zum Thema "Datensicherheit und Cybersicherheit"
 description: descscc
 image: /assets/cyber-security.jpg
 permalink: /labfolder/offener-brief
