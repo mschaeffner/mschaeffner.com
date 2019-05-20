@@ -2,7 +2,7 @@
 layout: post
 title: Offener Brief an die Labfolder GmbH
 tagline: Bezüglich der geplanten Podiumsdiskussion zum Thema "Datensicherheit und Cybersicherheit"
-description: descscc
+description: Offener Brief an die Labfolder GmbH
 image: /assets/cyber-security.jpg
 permalink: /labfolder/offener-brief
 category: labfolder
