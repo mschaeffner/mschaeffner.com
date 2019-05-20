@@ -8,7 +8,7 @@ permalink: /labfolder/offener-brief
 category: labfolder
 ---
 
-**An die Geschäftsführung der Labfolder GmbH.**
+**An die Geschäftsführung der Labfolder GmbH**
 
 Sehr geehrte Damen und Herren,
 
